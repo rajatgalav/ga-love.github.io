@@ -1,2 +1,2 @@
-# ga-love.github.io
+# ga-love
 tic-tac-toe game in react js
